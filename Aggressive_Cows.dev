@@ -21,8 +21,7 @@ LogOutputEnabled=0
 OverrideOutput=0
 OverrideOutputName=
 HostApplication=
-UseCustomMakefile=0
-CustomMakefile=
+UseCustomMakefil
 CommandLine=
 Folders=
 IncludeVersionInfo=0
